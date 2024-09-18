@@ -1,0 +1,5 @@
+hello all
+this is vaishnavi
+welcome to devops class
+the gitbash terminal
+today topic is git cherry file.txt
